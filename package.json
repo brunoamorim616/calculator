@@ -1,0 +1,35 @@
+{
+    "name": "calculator",
+    "version": "0.0.1",
+    "description": "Showcase Turbomodule with backward compatibility",
+    "react-native": "src/index",
+    "source": "src/index",
+    "files": [
+        "src",
+        "android",
+        "ios",
+        "calculator.podspec",
+        "!android/build",
+        "!ios/build",
+        "!**/__tests__",
+        "!**/__fixtures__",
+        "!**/__mocks__"
+    ],
+    "keywords": [
+        "react-native",
+        "ios",
+        "android"
+    ],
+    "repository": "https://github.com/brunoamorim616/calculator",
+    "author": "Bruno Amorim amorimbq@gmail.com (https://github.com/brunoamorim616)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/brunoamorim616/calculator/issues"
+    },
+    "homepage": "https://github.com/brunoamorim616/calculator#readme",
+    "devDependencies": {},
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*"
+    }
+}
