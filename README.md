@@ -4,7 +4,7 @@
 ## Steps
 
 - [x] [Setup] Create the calculator folder and the package.json
-- [ ] [Native module] Create the JS import
+- [x] [Native module] Create the JS import
 - [ ] [Native module] Create the iOS implementation
 - [ ] [Native module] Create the Android implementation
 - [ ] [Native module] Test The Native Module
